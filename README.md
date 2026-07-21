@@ -20,4 +20,4 @@ Citation-grounded **study / exploration** assistant (explain · quiz · compare 
 
 **Not an AI doctor.** Educational use only. No PHI. No diagnosis/treatment modes.
 
-[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · [ProMedNet](https://crossclinical.com)
+[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · [ProMedNet](https://crossclinical.com)

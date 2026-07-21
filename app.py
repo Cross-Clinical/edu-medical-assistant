@@ -157,7 +157,7 @@ with gr.Blocks(title="Edu Medical Assistant") as demo:
         "[Jargon](https://github.com/Cross-Clinical/clinical-jargon-explainer) · "
         "[Quizzes](https://github.com/Cross-Clinical/synthetic-case-quizzes) · "
         "[Lit Helper](https://github.com/Cross-Clinical/student-lit-helper)\n\n"
-        "[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · "
+        "[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · "
         "[ProMedNet](https://crossclinical.com)"
     )
     mode = gr.Radio(MODES, value="explain_concept", label="Mode")
