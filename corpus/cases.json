@@ -1,0 +1,427 @@
+[
+  {
+    "id": "case-001",
+    "title": "Shortness of breath after stairs",
+    "discipline": "premed",
+    "specialty": "Internal Medicine",
+    "synthetic": true,
+    "stem": "A 58-year-old office worker reports dyspnea when climbing two flights of stairs for 3 months. No chest pain today. Educational synthetic case \u2014 not a real patient.",
+    "question": "Which information is most important to gather next in a history-focused learning exercise?",
+    "choices": [
+      "Favorite sports team",
+      "Onset, progression, associated symptoms, smoking history, and activity limitation",
+      "Immediate prescription recommendation",
+      "Social media posts about symptoms"
+    ],
+    "answer_index": 1,
+    "explanation": "For learning clinical reasoning, characterize the symptom and risk factors. This is educational \u2014 not a diagnostic protocol."
+  },
+  {
+    "id": "case-002",
+    "title": "Morning joint stiffness",
+    "discipline": "premed",
+    "specialty": "Rheumatology",
+    "synthetic": true,
+    "stem": "A 34-year-old reports bilateral hand stiffness lasting about an hour each morning for 6 weeks. Synthetic education case.",
+    "question": "Which descriptor best matches what learners should clarify about stiffness?",
+    "choices": [
+      "Duration, distribution, swelling, and functional impact",
+      "Only shoe size",
+      "Whether friends have the same issue on TikTok",
+      "Which antibiotic to start now"
+    ],
+    "answer_index": 0,
+    "explanation": "Pattern, timing, and function guide learning differentials. Do not diagnose from this quiz."
+  },
+  {
+    "id": "case-003",
+    "title": "Post-op first ambulation",
+    "discipline": "nursing",
+    "specialty": "Med-Surg Nursing",
+    "synthetic": true,
+    "stem": "Day 1 after uncomplicated abdominal surgery, a patient wants to walk to the bathroom. Synthetic case for nursing students.",
+    "question": "Which nursing priority concept should the learner review first?",
+    "choices": [
+      "Fall risk, pain control, lines/drains, and orthostatic symptoms",
+      "Ignoring call lights",
+      "Diagnosing surgical complications independently",
+      "Posting the wound photo for study group"
+    ],
+    "answer_index": 0,
+    "explanation": "Safe mobility is a core nursing learning objective. Follow unit policy and RN supervision in real care."
+  },
+  {
+    "id": "case-004",
+    "title": "SBAR handoff practice",
+    "discipline": "nursing",
+    "specialty": "Communication",
+    "synthetic": true,
+    "stem": "You must practice an SBAR handoff for a synthetic patient with new fever.",
+    "question": "What does the 'R' in SBAR stand for in this educational framework?",
+    "choices": [
+      "Random",
+      "Recommendation",
+      "Radiology only",
+      "Refusal"
+    ],
+    "answer_index": 1,
+    "explanation": "SBAR = Situation, Background, Assessment, Recommendation \u2014 a structured communication tool."
+  },
+  {
+    "id": "case-005",
+    "title": "NWB instruction",
+    "discipline": "pt",
+    "specialty": "Orthopedic PT",
+    "synthetic": true,
+    "stem": "A synthetic outpatient is written for NWB on the right lower extremity after fracture fixation.",
+    "question": "What does NWB mean for patient education practice?",
+    "choices": [
+      "Non-weight bearing \u2014 no weight through the limb as ordered",
+      "New weightlifting baseline",
+      "Nurse will bear the weight",
+      "No walking belt"
+    ],
+    "answer_index": 0,
+    "explanation": "Weight-bearing status is a common PT/OT safety concept. Always follow the written order in clinic."
+  },
+  {
+    "id": "case-006",
+    "title": "Transfer practice",
+    "discipline": "ot",
+    "specialty": "Inpatient Rehab OT",
+    "synthetic": true,
+    "stem": "A synthetic patient with left hemiparesis needs bed-to-chair transfer practice.",
+    "question": "Which learning focus fits OT's occupational lens?",
+    "choices": [
+      "Safe transfer technique enabling participation in daily activities",
+      "Ordering CT scans independently",
+      "Writing opioid prescriptions",
+      "Ignoring adaptive equipment"
+    ],
+    "answer_index": 0,
+    "explanation": "OT emphasizes meaningful activity and safe functional mobility within scope."
+  },
+  {
+    "id": "case-007",
+    "title": "Medication list confusion",
+    "discipline": "pharmacy",
+    "specialty": "Medication Safety",
+    "synthetic": true,
+    "stem": "A synthetic patient brings three pill bottles with overlapping names after hospital discharge.",
+    "question": "Which educational safety process should students name?",
+    "choices": [
+      "Medication reconciliation across transitions of care",
+      "Guessing and stopping all meds",
+      "Crowdsourcing doses on Reddit",
+      "Skipping counseling"
+    ],
+    "answer_index": 0,
+    "explanation": "Med reconciliation is a key safety concept for pharmacy and interprofessional teams."
+  },
+  {
+    "id": "case-008",
+    "title": "PA scope vignette",
+    "discipline": "pa",
+    "specialty": "Primary Care",
+    "synthetic": true,
+    "stem": "A PA student is learning how state rules affect practice models.",
+    "question": "Which concept should they study regarding what they may perform?",
+    "choices": [
+      "Scope of practice (state- and employer-dependent)",
+      "Unlimited autonomy everywhere",
+      "Only administrative work forever",
+      "Social media diagnosis"
+    ],
+    "answer_index": 0,
+    "explanation": "Scope varies; learners must know local regulations and supervision/collaboration rules."
+  },
+  {
+    "id": "case-009",
+    "title": "PPE selection",
+    "discipline": "allied",
+    "specialty": "Infection Prevention",
+    "synthetic": true,
+    "stem": "An observer is entering a room labeled for contact precautions (synthetic scenario).",
+    "question": "What should the observer do first?",
+    "choices": [
+      "Follow posted PPE instructions and ask the nurse before entering",
+      "Enter quickly without PPE to save time",
+      "Remove signage",
+      "Film the room for class"
+    ],
+    "answer_index": 0,
+    "explanation": "Observers follow infection-control posting and staff direction."
+  },
+  {
+    "id": "case-010",
+    "title": "Chief complaint vs diagnosis",
+    "discipline": "premed",
+    "specialty": "Clinical Reasoning",
+    "synthetic": true,
+    "stem": "A synthetic patient says 'my stomach hurts.'",
+    "question": "In note-writing education, this phrase is best labeled as:",
+    "choices": [
+      "Chief complaint (patient's words) \u2014 not yet a diagnosis",
+      "Final diagnosis",
+      "Procedure code",
+      "Nursing license"
+    ],
+    "answer_index": 0,
+    "explanation": "Learners separate the patient's concern from clinician assessment."
+  },
+  {
+    "id": "case-011",
+    "title": "Vital signs trend",
+    "discipline": "nursing",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "A synthetic chart shows rising heart rate overnight. Educational synthetic case \u2014 not a real patient.",
+    "question": "Which learning action fits?",
+    "choices": [
+      "Review trend with nurse preceptor and context",
+      "Ignore",
+      "Tweet the numbers",
+      "Change meds alone"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-012",
+    "title": "Assistive device",
+    "discipline": "pt",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic patient unstable with cane on stairs. Educational synthetic case \u2014 not a real patient.",
+    "question": "Best educational focus?",
+    "choices": [
+      "Gait safety and appropriate device training under PT",
+      "Buy random crutches online mid-session",
+      "Skip gait belt always",
+      "Diagnose neuropathy via quiz"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-013",
+    "title": "IADLs",
+    "discipline": "ot",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic older adult struggles with meal prep after stroke. Educational synthetic case \u2014 not a real patient.",
+    "question": "OT learning lens?",
+    "choices": [
+      "Instrumental ADLs and adaptive strategies",
+      "Only marathon training",
+      "Surgical scheduling",
+      "Ignoring home context"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-014",
+    "title": "OTC counseling",
+    "discipline": "pharmacy",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic patient asks about combining OTC cold meds. Educational synthetic case \u2014 not a real patient.",
+    "question": "Student should practice?",
+    "choices": [
+      "Check ingredients for duplication and refer to pharmacist",
+      "Tell them to double all doses",
+      "Diagnose flu definitively",
+      "Share PHI in Slack"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-015",
+    "title": "Informed consent elements",
+    "discipline": "pa",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic clinic visit for a minor procedure. Educational synthetic case \u2014 not a real patient.",
+    "question": "Learners should recall consent includes?",
+    "choices": [
+      "Risks, benefits, alternatives, and opportunity for questions",
+      "Only the price",
+      "Social media waiver",
+      "No documentation"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-016",
+    "title": "Empathy statement",
+    "discipline": "premed",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic patient cries after a difficult update. Educational synthetic case \u2014 not a real patient.",
+    "question": "Best learning response pattern?",
+    "choices": [
+      "Acknowledge emotion and give space; avoid false reassurance",
+      "Change the subject to sports",
+      "Lecture immediately",
+      "Record secretly"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-017",
+    "title": "Isolation types",
+    "discipline": "nursing",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Door sign says droplet precautions (synthetic). Educational synthetic case \u2014 not a real patient.",
+    "question": "Observer action?",
+    "choices": [
+      "Follow PPE for droplet as posted; ask if unsure",
+      "Same as airborne always",
+      "No hand hygiene needed",
+      "Bring friends to watch"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-018",
+    "title": "Sterile field",
+    "discipline": "allied",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic OR observation. Educational synthetic case \u2014 not a real patient.",
+    "question": "Observer rule?",
+    "choices": [
+      "Do not touch sterile field; follow circulating nurse instructions",
+      "Adjust lights by reaching over field",
+      "Take selfies",
+      "Borrow instruments"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-019",
+    "title": "Differential list",
+    "discipline": "premed",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic case with fever and cough. Educational synthetic case \u2014 not a real patient.",
+    "question": "Educational next step in reasoning?",
+    "choices": [
+      "Generate a differential and what history/exam would refine it",
+      "Announce a final diagnosis online",
+      "Prescribe antibiotics in the quiz",
+      "Skip oxygen saturation concepts"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-020",
+    "title": "Imaging abbreviations",
+    "discipline": "pa",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic note mentions CXR. Educational synthetic case \u2014 not a real patient.",
+    "question": "CXR means?",
+    "choices": [
+      "Chest X-ray",
+      "Complex xylophone radiograph",
+      "Cancelled X-ray",
+      "Central xiphoid resection"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-021",
+    "title": "Fall risk",
+    "discipline": "nursing",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic patient on multiple antihypertensives feels dizzy standing. Educational synthetic case \u2014 not a real patient.",
+    "question": "Priority concept?",
+    "choices": [
+      "Orthostatic symptoms and fall risk mitigation",
+      "Encourage sprinting",
+      "Remove call light",
+      "Public Instagram story"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-022",
+    "title": "PROM vs AROM",
+    "discipline": "pt",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Learning lab asks patient to move knee themselves. Educational synthetic case \u2014 not a real patient.",
+    "question": "That is?",
+    "choices": [
+      "AROM \u2014 active range of motion",
+      "PROM only",
+      "NWB",
+      "CBC"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-023",
+    "title": "Half-life concept",
+    "discipline": "pharmacy",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Educational pharmacokinetics review. Educational synthetic case \u2014 not a real patient.",
+    "question": "Half-life is?",
+    "choices": [
+      "Time for concentration to fall by half",
+      "Time until patent expires",
+      "Hospital shift length",
+      "Half a tablet always"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-024",
+    "title": "Adaptive equipment",
+    "discipline": "ot",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Synthetic patient cannot reach feet to don socks. Educational synthetic case \u2014 not a real patient.",
+    "question": "OT strategy example?",
+    "choices": [
+      "Consider adaptive equipment and technique training",
+      "Surgery scheduling by OT student",
+      "Ignore occupation goals",
+      "Prescribe opioids"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  },
+  {
+    "id": "case-025",
+    "title": "PHI reminder",
+    "discipline": "allied",
+    "specialty": "Education",
+    "synthetic": true,
+    "stem": "Student wants to journal about clinic day. Educational synthetic case \u2014 not a real patient.",
+    "question": "Best practice?",
+    "choices": [
+      "Reflect on roles/workflows without identifiers",
+      "Name the patient and room",
+      "Post monitor photos",
+      "Share chart screenshots"
+    ],
+    "answer_index": 0,
+    "explanation": "Synthetic educational item. Not clinical advice."
+  }
+]

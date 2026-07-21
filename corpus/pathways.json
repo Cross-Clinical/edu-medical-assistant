@@ -1,0 +1,131 @@
+[
+  {
+    "id": "rn",
+    "title": "Registered Nurse (RN)",
+    "discipline": "nursing",
+    "summary": "Provide direct patient care, coordinate treatment plans, educate patients and families, and often specialize by setting (ED, ICU, med-surg, ambulatory).",
+    "education": "ADN or BSN + NCLEX-RN; many employers prefer BSN.",
+    "typical_shadowing": "Floor nursing, charge nurse workflows, patient education, medication administration observation (no hands-on unless authorized).",
+    "outlook_note": "Strong demand nationally with local variation; shift work common.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+      "https://www.aacnnursing.org/"
+    ]
+  },
+  {
+    "id": "pa",
+    "title": "Physician Assistant / Associate (PA)",
+    "discipline": "advanced_practice",
+    "summary": "Practice medicine on care teams: history, exam, orders, procedures within scope, often with supervising/collaborating physicians depending on state.",
+    "education": "Master's PA program + PANCE; clinical rotations across specialties.",
+    "typical_shadowing": "Primary care, surgery, EM, or specialty clinics; observe H&P and procedures.",
+    "outlook_note": "Fast-growing role with specialty flexibility.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+      "https://www.aapa.org/"
+    ]
+  },
+  {
+    "id": "md-do",
+    "title": "Physician (MD/DO)",
+    "discipline": "medicine",
+    "summary": "Diagnose and treat illness, lead care teams, pursue residency specialty training after medical school.",
+    "education": "Bachelor's → MD/DO → residency (± fellowship); USMLE/COMLEX.",
+    "typical_shadowing": "50–100+ hours common for applicants; specialty exploration across inpatient and outpatient.",
+    "outlook_note": "Workforce shortages vary by specialty and geography.",
+    "sources": [
+      "https://www.aamc.org/",
+      "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm"
+    ]
+  },
+  {
+    "id": "pt",
+    "title": "Physical Therapist (PT)",
+    "discipline": "rehab",
+    "summary": "Restore movement and function through evaluation, exercise, manual therapy, and patient education.",
+    "education": "DPT degree + licensure exam.",
+    "typical_shadowing": "Outpatient ortho, inpatient rehab, sports medicine observation hours often required for DPT apps.",
+    "outlook_note": "Aging population drives demand.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+      "https://www.apta.org/"
+    ]
+  },
+  {
+    "id": "ot",
+    "title": "Occupational Therapist (OT)",
+    "discipline": "rehab",
+    "summary": "Help people participate in daily activities (ADLs, work, school) after injury, illness, or disability.",
+    "education": "Master's or OTD + NBCOT + state license.",
+    "typical_shadowing": "Pediatrics, hand therapy, inpatient rehab, school-based OT.",
+    "outlook_note": "Diverse settings; observation hours often expected.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
+      "https://www.aota.org/"
+    ]
+  },
+  {
+    "id": "pharm",
+    "title": "Pharmacist",
+    "discipline": "pharmacy",
+    "summary": "Medication experts: dispensing, counseling, clinical pharmacy services, and medication safety.",
+    "education": "PharmD + licensure (NAPLEX/MPJE); residencies for clinical tracks.",
+    "typical_shadowing": "Community pharmacy, hospital pharmacy, ambulatory care clinics.",
+    "outlook_note": "Roles expanding in clinical services and specialty pharmacy.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+      "https://www.aacp.org/"
+    ]
+  },
+  {
+    "id": "em",
+    "title": "Emergency Medicine (physician specialty)",
+    "discipline": "medicine_specialty",
+    "summary": "Acute undifferentiated care: resuscitation, procedures, rapid decision-making across all ages.",
+    "education": "MD/DO + EM residency.",
+    "typical_shadowing": "ED observation with attending/resident; high acuity, shift-based.",
+    "outlook_note": "Lifestyle and acuity differ sharply from clinic-based specialties.",
+    "sources": [
+      "https://www.abem.org/",
+      "https://www.aamc.org/cim"
+    ]
+  },
+  {
+    "id": "fm",
+    "title": "Family Medicine (physician specialty)",
+    "discipline": "medicine_specialty",
+    "summary": "Longitudinal primary care for all ages; prevention, chronic disease, continuity relationships.",
+    "education": "MD/DO + family medicine residency.",
+    "typical_shadowing": "Outpatient clinic sessions; procedures and community health optional.",
+    "outlook_note": "Critical to addressing primary care shortages.",
+    "sources": [
+      "https://www.aafp.org/",
+      "https://www.aamc.org/cim"
+    ]
+  },
+  {
+    "id": "rad-tech",
+    "title": "Radiologic Technologist",
+    "discipline": "allied",
+    "summary": "Perform diagnostic imaging exams (X-ray, CT, MRI tracks) with attention to safety and patient positioning.",
+    "education": "Associate or bachelor's + certification/licensure.",
+    "typical_shadowing": "Imaging department observation; radiation safety orientation required at many sites.",
+    "outlook_note": "Stable allied-health pathway with specialty modalities.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+      "https://www.asrt.org/"
+    ]
+  },
+  {
+    "id": "cna",
+    "title": "Certified Nursing Assistant (CNA)",
+    "discipline": "nursing",
+    "summary": "Assist patients with ADLs, vital signs, and mobility under nursing supervision — common early clinical exposure role.",
+    "education": "State-approved training program + competency exam.",
+    "typical_shadowing": "Often paid work rather than unpaid shadowing; strong patient-facing hours.",
+    "outlook_note": "Entry pathway into nursing and allied careers.",
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm"
+    ]
+  }
+]

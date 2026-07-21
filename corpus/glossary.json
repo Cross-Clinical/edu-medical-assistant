@@ -1,0 +1,737 @@
+[
+  {
+    "term": "Abrasion",
+    "discipline": "premed",
+    "plain_english": "Superficial scrape of the skin",
+    "note": "Skin injury with limited depth",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Abscess",
+    "discipline": "premed",
+    "plain_english": "Pocket of pus from infection",
+    "note": "Often needs drainage + antibiotics (clinician decision)",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Afebrile",
+    "discipline": "premed",
+    "plain_english": "Without fever",
+    "note": "Temperature in normal range",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Auscultation",
+    "discipline": "premed",
+    "plain_english": "Listening to body sounds with a stethoscope",
+    "note": "Heart, lungs, bowel sounds",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Bradycardia",
+    "discipline": "premed",
+    "plain_english": "Slow heart rate",
+    "note": "Context-dependent; often <60 bpm in adults",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Tachycardia",
+    "discipline": "premed",
+    "plain_english": "Fast heart rate",
+    "note": "Context-dependent; often >100 bpm in adults",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Cyanosis",
+    "discipline": "premed",
+    "plain_english": "Bluish skin from low oxygen",
+    "note": "Emergency context if new/severe",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Dyspnea",
+    "discipline": "premed",
+    "plain_english": "Shortness of breath",
+    "note": "Symptom, not a diagnosis",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Edema",
+    "discipline": "premed",
+    "plain_english": "Swelling from fluid",
+    "note": "Can be local or generalized",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Epistaxis",
+    "discipline": "premed",
+    "plain_english": "Nosebleed",
+    "note": "Common; recurrent needs evaluation",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Hematuria",
+    "discipline": "premed",
+    "plain_english": "Blood in urine",
+    "note": "Needs clinical workup",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Hypertension",
+    "discipline": "premed",
+    "plain_english": "High blood pressure",
+    "note": "Chronic disease category",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Hypotension",
+    "discipline": "premed",
+    "plain_english": "Low blood pressure",
+    "note": "May cause dizziness/shock risk",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Ischemia",
+    "discipline": "premed",
+    "plain_english": "Insufficient blood flow to tissue",
+    "note": "Can injure organs",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Laceration",
+    "discipline": "premed",
+    "plain_english": "Cut/tear in skin or tissue",
+    "note": "Depth and contamination matter",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Malaise",
+    "discipline": "premed",
+    "plain_english": "General feeling of unwellness",
+    "note": "Nonspecific symptom",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "NPO",
+    "discipline": "premed",
+    "plain_english": "Nothing by mouth",
+    "note": "Common pre-procedure order concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Pallor",
+    "discipline": "premed",
+    "plain_english": "Pale appearance",
+    "note": "May relate to anemia/perfusion",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Prognosis",
+    "discipline": "premed",
+    "plain_english": "Expected course of a condition",
+    "note": "Estimate, not certainty",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Pruritus",
+    "discipline": "premed",
+    "plain_english": "Itching",
+    "note": "Symptom across many causes",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Sepsis",
+    "discipline": "premed",
+    "plain_english": "Life-threatening response to infection",
+    "note": "Emergency concept for education",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Syncope",
+    "discipline": "premed",
+    "plain_english": "Fainting",
+    "note": "Transient loss of consciousness",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Differential diagnosis",
+    "discipline": "premed",
+    "plain_english": "List of possible explanations for findings",
+    "note": "Reasoning framework",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "SOAP note",
+    "discipline": "premed",
+    "plain_english": "Subjective, Objective, Assessment, Plan",
+    "note": "Common note structure",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "ADLs",
+    "discipline": "nursing",
+    "plain_english": "Activities of Daily Living",
+    "note": "Bathing, dressing, eating, toileting, transferring",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "I&O",
+    "discipline": "nursing",
+    "plain_english": "Intake and output",
+    "note": "Fluids in vs fluids out tracking",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "PRN",
+    "discipline": "nursing",
+    "plain_english": "As needed",
+    "note": "Medication or intervention schedule term",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "QID",
+    "discipline": "nursing",
+    "plain_english": "Four times daily",
+    "note": "Dosing abbreviation (education)",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "BID",
+    "discipline": "nursing",
+    "plain_english": "Twice daily",
+    "note": "Dosing abbreviation",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "TID",
+    "discipline": "nursing",
+    "plain_english": "Three times daily",
+    "note": "Dosing abbreviation",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "PO",
+    "discipline": "nursing",
+    "plain_english": "By mouth",
+    "note": "Route of administration",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "IV",
+    "discipline": "nursing",
+    "plain_english": "Intravenous",
+    "note": "Into a vein",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "IM",
+    "discipline": "nursing",
+    "plain_english": "Intramuscular",
+    "note": "Into muscle",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "SC/SQ",
+    "discipline": "nursing",
+    "plain_english": "Subcutaneous",
+    "note": "Under the skin",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Code blue",
+    "discipline": "nursing",
+    "plain_english": "Cardiac/respiratory arrest emergency response",
+    "note": "Hospital emergency protocol term",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Fall risk",
+    "discipline": "nursing",
+    "plain_english": "Higher chance of falling",
+    "note": "Nursing assessment category",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Skin integrity",
+    "discipline": "nursing",
+    "plain_english": "Condition of the skin barrier",
+    "note": "Pressure injury prevention focus",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Shift report",
+    "discipline": "nursing",
+    "plain_english": "Handoff communication between nurses",
+    "note": "Safety-critical communication",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Telemetry",
+    "discipline": "nursing",
+    "plain_english": "Continuous cardiac monitoring",
+    "note": "Often on a dedicated unit",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "PCA",
+    "discipline": "nursing",
+    "plain_english": "Patient-controlled analgesia",
+    "note": "Pain pump concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Foley catheter",
+    "discipline": "nursing",
+    "plain_english": "Indwelling urinary catheter",
+    "note": "Infection risk awareness",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Aspiration precautions",
+    "discipline": "nursing",
+    "plain_english": "Steps to reduce inhaling food/fluid into lungs",
+    "note": "Swallow safety",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Isolation precautions",
+    "discipline": "nursing",
+    "plain_english": "Infection control barriers",
+    "note": "Contact/droplet/airborne categories",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "SBAR",
+    "discipline": "nursing",
+    "plain_english": "Situation, Background, Assessment, Recommendation",
+    "note": "Handoff framework",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "MAR",
+    "discipline": "nursing",
+    "plain_english": "Medication administration record",
+    "note": "Documentation of meds given",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "ROM",
+    "discipline": "pt",
+    "plain_english": "Range of motion",
+    "note": "Joint movement extent",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "AROM",
+    "discipline": "pt",
+    "plain_english": "Active range of motion",
+    "note": "Patient moves independently",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "PROM",
+    "discipline": "pt",
+    "plain_english": "Passive range of motion",
+    "note": "Therapist moves the joint",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Gait",
+    "discipline": "pt",
+    "plain_english": "Walking pattern",
+    "note": "Assessed for safety and quality",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Ambulation",
+    "discipline": "pt",
+    "plain_english": "Walking/moving about",
+    "note": "Often a therapy goal",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "WBAT",
+    "discipline": "pt",
+    "plain_english": "Weight bearing as tolerated",
+    "note": "Post-injury/surgery restriction",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "NWB",
+    "discipline": "pt",
+    "plain_english": "Non-weight bearing",
+    "note": "No weight through limb",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "TTWB",
+    "discipline": "pt",
+    "plain_english": "Toe-touch weight bearing",
+    "note": "Minimal contact for balance",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Assistive device",
+    "discipline": "pt",
+    "plain_english": "Tool aiding mobility",
+    "note": "Cane, walker, crutches",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Modalities",
+    "discipline": "pt",
+    "plain_english": "Physical agents used in therapy",
+    "note": "Heat, ice, ultrasound (as taught)",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Therapeutic exercise",
+    "discipline": "pt",
+    "plain_english": "Exercises prescribed for function",
+    "note": "Strength, mobility, endurance",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Manual therapy",
+    "discipline": "pt",
+    "plain_english": "Hands-on techniques",
+    "note": "Mobilization/soft tissue work (licensed)",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Functional mobility",
+    "discipline": "pt",
+    "plain_english": "Movement needed for daily tasks",
+    "note": "Bed mobility, transfers, gait",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Transfer",
+    "discipline": "pt",
+    "plain_english": "Moving between surfaces",
+    "note": "Bed to chair, etc.",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Balance",
+    "discipline": "pt",
+    "plain_english": "Ability to maintain posture",
+    "note": "Static and dynamic",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Proprioception",
+    "discipline": "pt",
+    "plain_english": "Sense of body position",
+    "note": "Important after injury",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Occupations",
+    "discipline": "ot",
+    "plain_english": "Meaningful daily activities",
+    "note": "OT core focus (not just jobs)",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "ADL",
+    "discipline": "ot",
+    "plain_english": "Activities of Daily Living",
+    "note": "Self-care tasks",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "IADL",
+    "discipline": "ot",
+    "plain_english": "Instrumental ADLs",
+    "note": "Cooking, shopping, managing money",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Fine motor",
+    "discipline": "ot",
+    "plain_english": "Small precise hand movements",
+    "note": "Writing, buttoning",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Gross motor",
+    "discipline": "ot",
+    "plain_english": "Large body movements",
+    "note": "Walking, reaching",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Sensory processing",
+    "discipline": "ot",
+    "plain_english": "How the nervous system handles sensory input",
+    "note": "Common in pediatrics OT",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Adaptive equipment",
+    "discipline": "ot",
+    "plain_english": "Tools that enable participation",
+    "note": "Reachers, dressing aids",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Energy conservation",
+    "discipline": "ot",
+    "plain_english": "Strategies to reduce fatigue",
+    "note": "Pacing, prioritization",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Work hardening",
+    "discipline": "ot",
+    "plain_english": "Program rebuilding work capacity",
+    "note": "Return-to-work focus",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Splinting",
+    "discipline": "ot",
+    "plain_english": "Custom or prefabricated support",
+    "note": "Hand therapy common",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "H&P",
+    "discipline": "pa",
+    "plain_english": "History and physical",
+    "note": "Core clinical evaluation",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "ROS",
+    "discipline": "pa",
+    "plain_english": "Review of systems",
+    "note": "Symptom inventory by system",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "CBC",
+    "discipline": "pa",
+    "plain_english": "Complete blood count",
+    "note": "Common lab panel concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "BMP",
+    "discipline": "pa",
+    "plain_english": "Basic metabolic panel",
+    "note": "Electrolytes/kidney/glucose concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "CMP",
+    "discipline": "pa",
+    "plain_english": "Comprehensive metabolic panel",
+    "note": "Broader chemistry panel",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "ECG/EKG",
+    "discipline": "pa",
+    "plain_english": "Electrocardiogram",
+    "note": "Heart electrical activity tracing",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "CXR",
+    "discipline": "pa",
+    "plain_english": "Chest X-ray",
+    "note": "Common imaging abbreviation",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "CT",
+    "discipline": "pa",
+    "plain_english": "Computed tomography",
+    "note": "Cross-sectional imaging",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "MRI",
+    "discipline": "pa",
+    "plain_english": "Magnetic resonance imaging",
+    "note": "Soft-tissue detail imaging",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Ultrasound",
+    "discipline": "pa",
+    "plain_english": "Imaging with sound waves",
+    "note": "No ionizing radiation",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Informed consent",
+    "discipline": "pa",
+    "plain_english": "Permission after risks/benefits discussed",
+    "note": "Ethical/legal concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Scope of practice",
+    "discipline": "pa",
+    "plain_english": "What a profession is legally allowed to do",
+    "note": "Varies by state",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Collaborating physician",
+    "discipline": "pa",
+    "plain_english": "Physician relationship in PA practice models",
+    "note": "State-dependent",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Procedure note",
+    "discipline": "pa",
+    "plain_english": "Documentation of a procedure",
+    "note": "Indication, technique, findings",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Indication",
+    "discipline": "pharmacy",
+    "plain_english": "Reason a drug is used",
+    "note": "Labeled vs off-label concepts",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Contraindication",
+    "discipline": "pharmacy",
+    "plain_english": "Reason not to use a drug/intervention",
+    "note": "Safety concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Adverse effect",
+    "discipline": "pharmacy",
+    "plain_english": "Unwanted effect of a treatment",
+    "note": "Broader than allergy",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Drug interaction",
+    "discipline": "pharmacy",
+    "plain_english": "How drugs affect each other",
+    "note": "Absorption/metabolism/effect",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Half-life",
+    "discipline": "pharmacy",
+    "plain_english": "Time for drug level to fall by half",
+    "note": "Pharmacokinetics concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Bioavailability",
+    "discipline": "pharmacy",
+    "plain_english": "Fraction of drug reaching circulation",
+    "note": "Route-dependent",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Formulary",
+    "discipline": "pharmacy",
+    "plain_english": "List of covered/preferred medications",
+    "note": "Payer/hospital lists",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Med reconciliation",
+    "discipline": "pharmacy",
+    "plain_english": "Comparing med lists across transitions",
+    "note": "Safety process",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "OTC",
+    "discipline": "pharmacy",
+    "plain_english": "Over-the-counter",
+    "note": "No prescription required",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Rx",
+    "discipline": "pharmacy",
+    "plain_english": "Prescription",
+    "note": "Order for a medication",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "HIPAA",
+    "discipline": "allied",
+    "plain_english": "US health privacy law",
+    "note": "Observers learn basics; not a license to share stories",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "PHI",
+    "discipline": "allied",
+    "plain_english": "Protected health information",
+    "note": "Identifiers + health data",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "PPE",
+    "discipline": "allied",
+    "plain_english": "Personal protective equipment",
+    "note": "Gloves, gowns, masks, eye protection",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Sterile field",
+    "discipline": "allied",
+    "plain_english": "Area kept free of microorganisms",
+    "note": "OR/procedure concept",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Universal precautions",
+    "discipline": "allied",
+    "plain_english": "Assume all blood/body fluids may be infectious",
+    "note": "Safety baseline",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Vital signs",
+    "discipline": "allied",
+    "plain_english": "Basic physiologic measurements",
+    "note": "HR, BP, RR, temp, SpO2",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Chief complaint",
+    "discipline": "allied",
+    "plain_english": "Primary reason for visit",
+    "note": "Patient's words",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Comorbidity",
+    "discipline": "allied",
+    "plain_english": "Additional co-existing conditions",
+    "note": "Affects complexity",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Empathy",
+    "discipline": "allied",
+    "plain_english": "Understanding another's experience",
+    "note": "Core professional skill",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  },
+  {
+    "term": "Interprofessional",
+    "discipline": "allied",
+    "plain_english": "Multiple professions collaborating",
+    "note": "Team-based care",
+    "source": "Curated educational glossary (Cross Clinical OSS) \u2014 verify with your textbooks"
+  }
+]
