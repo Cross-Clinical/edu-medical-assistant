@@ -4,7 +4,7 @@ emoji: 🎓
 colorFrom: green
 colorTo: teal
 sdk: gradio
-sdk_version: 4.44.0
+sdk_version: 5.50
 app_file: app.py
 pinned: false
 license: mit
